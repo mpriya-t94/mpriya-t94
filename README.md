@@ -48,7 +48,7 @@
 | [🦠 Bacterial WGS Pipeline](https://github.com/mpriya-t94/bacterial-wgs-pipeline_1) | Whole-genome sequencing pipeline for clinical bacterial isolates | Nextflow |
 | [📈 Domino's Demand Forecasting](https://github.com/mpriya-t94/dominos-demand-forecasting-ml) | Time-series demand forecasting & inventory optimization with lag-based feature engineering | XGBoost, Python |
 | [🚌 Redbus Data Scraping](https://github.com/mpriya-t94/Redbus_data_Scraping) | End-to-end scraping pipeline with SQL storage and a Streamlit dashboard | Selenium, SQL, Streamlit |
-| 🦠 Phage Genome Sequencing Pipeline *(in progress)* | Fault-tolerant, resumable pipeline for bacteriophage genomes (Nanopore/Illumina): QC → assembly → polishing → VirSorter2 viral ID → CheckV → Pharokka annotation → TaxMyPhage/VIRIDIC taxonomy — repo coming soon | Canu/SPAdes, VirSorter2, CheckV, Pharokka |
+| 🦠 [Phage Genome Sequencing Pipeline](https://github.com/mpriya-t94/Phage-Genome-Sequencing-Pipeline) | Fault-tolerant, resumable pipeline for bacteriophage genomes (Nanopore/Illumina): QC → assembly → polishing → VirSorter2 viral ID → CheckV → Pharokka annotation → TaxMyPhage/VIRIDIC taxonomy — repo coming soon | Canu/SPAdes, VirSorter2, CheckV, Pharokka |
 
 ---
 
